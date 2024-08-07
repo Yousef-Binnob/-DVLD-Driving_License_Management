@@ -1,4 +1,4 @@
-﻿namespace DrivingLicenseManagement.PL
+﻿namespace DrivingLicenseManagement.PL.Forms
 {
     partial class frmHome
     {

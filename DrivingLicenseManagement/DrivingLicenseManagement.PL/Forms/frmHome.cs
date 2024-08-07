@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DrivingLicenseManagement.PL
+namespace DrivingLicenseManagement.PL.Forms
 {
     public partial class frmHome : Form
     {

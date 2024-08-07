@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DrivingLicenseManagement.PL
+namespace DrivingLicenseManagement.PL.Forms
 {
     internal static class Program
     {
