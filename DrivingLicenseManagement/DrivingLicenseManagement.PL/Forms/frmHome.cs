@@ -19,7 +19,8 @@ namespace DrivingLicenseManagement.PL.Forms
 
         private void peopleToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            // not implemnted yet
+            var frmPeople = new frmManagePeople();
+            frmPeople.Show();
         }
     }
 }
